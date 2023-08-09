@@ -33,15 +33,11 @@ public class MergeSort {
 
     }
 
-
-
-
-
     public static void main ( String[] args) {
 
         MergeSort ms = new MergeSort();
-        ms.merge( num1, 0, num2, 1);
+        //ms.merge( num1, 0, num2, 1);
 
-        System.out.println(Arrays.toString( num1 ));
+        //System.out.println(Arrays.toString( num1 ));
     }
 }

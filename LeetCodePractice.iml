@@ -6,7 +6,9 @@
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/Merge Sorted Array/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/Search a 2D Matrix/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Valid Palindrome/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/src/Merge Sorted Array" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Valid Palindrome" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

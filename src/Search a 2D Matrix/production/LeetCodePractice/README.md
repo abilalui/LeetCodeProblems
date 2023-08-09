@@ -39,3 +39,9 @@ nums2.length == n
 0 <= m, n <= 200
 1 <= m + n <= 200
 -109 <= nums1[i], nums2[j] <= 109
+
+
+Updates:
+
+Still has error! 
+Case: When first array doesn't have non-zero elements.
